@@ -4,7 +4,7 @@
 
 <table>
 <tr>
-<td><a href="#--------"><img height="137px" align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=luyu-wu&count_private=true&show_icons=true&include_all_commits=true&locale=cn&theme=transparent$hide_rank=true"/></a></td>
+<td><a href="#--------"><img height="137px" align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=luyu-wu&include_all_commits=true&locale=cn&theme=transparent$hide_rank=true"/></a></td>
 <td><a href="#--------"><img height="137px" align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luyu-wu&layout=compact&theme=transparent&locale=cn"/></a></td>
 </tr>
 </table>

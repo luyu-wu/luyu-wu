@@ -16,3 +16,5 @@ discord: luyu_wu
 spotify: luyu
 
 would love to talk about logic design, linux, and music !
+
+uts2025 iypt2024

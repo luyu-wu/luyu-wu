@@ -13,8 +13,5 @@ im not a great coder but enjoy working with rust and hdls a lot!
 hoping to commit more to oss in the future :)
 
 discord: luyu_wu
-spotify: luyu
 
-would love to talk about logic design, linux, and music !
-
-uts2025 iypt2024
+like to yap about logic design, linux, and music !

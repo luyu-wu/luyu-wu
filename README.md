@@ -9,9 +9,5 @@
 </table>
 </div>
 
-im not a great coder but enjoy working with rust and hdls a lot!
+im not a great coder but enjoy rust and hdl a lot!
 hoping to commit more to oss in the future :)
-
-discord: luyu_wu
-
-like to yap about logic design, linux, and music !

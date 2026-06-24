@@ -1,4 +1,5 @@
 <h1 align="center">HALLO! 👋 I'm Luyu</h1>
+i study at uoft and do research in atomic physics with uoft department
 
 <div align="center">
 
@@ -9,5 +10,6 @@
 </table>
 </div>
 
-im not a great coder but enjoy rust and hdl a lot!
-hoping to commit more to oss in the future :)
+im not a great coder but enjoy random projects
+
+:)
